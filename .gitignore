@@ -1,0 +1,11 @@
+Python
+
+pycache/ *.py[cod] *$py.class venv/ env/
+
+Data & Logs
+
+*.log *.csv *.dat *.gds
+
+IDEs
+
+.vscode/ .idea/
